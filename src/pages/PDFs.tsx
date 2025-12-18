@@ -129,6 +129,7 @@ const PDFs = () => {
             ECO: "Economy",
             SCI: "Science",
             CA: "Current Affairs",
+            ICT: "Computer Knowledge(ICT)",
           };
           return topic.subject === subjectMapping[selectedSubject];
         });
