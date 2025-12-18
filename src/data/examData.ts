@@ -766,6 +766,7 @@ export const sampleQuestions: Record<string, Question[]> = {
     correctAnswer: 1,
     explanation: "A bus is a communication pathway used to transmit data and control signals."
   }
+  ],
 
 };
 
