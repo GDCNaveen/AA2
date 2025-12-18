@@ -44,7 +44,7 @@ const pdfTopics: PDFTopic[] = [
    {
     code: "CS-ICT-01",
     subject: "Computer Knowledge(ICT)",
-    topic: "Architecture of Computer - Available @ Just Rs. 7/-",
+    topic: "Architecture of Computer (No.of Questions 78)- Available @ Just Rs. 7/-",
     price: "₹7",
     formUrl: "https://forms.gle/9Dd8jpEuDwGZsvWL8",
   },
