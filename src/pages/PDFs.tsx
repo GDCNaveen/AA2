@@ -249,7 +249,7 @@ const PDFs = () => {
                             <FileText className="w-3 h-3" />
                             Buy PDF
                           </span>
-                          <span className="text-[10px] font-bold text-yellow-200">Rs.10/-</span>
+                          <span className="text-[10px] font-bold text-yellow-200">Rs.7/-</span>
                         </Button>
                       </a>
                     </TableCell>
