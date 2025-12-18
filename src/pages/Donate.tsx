@@ -54,7 +54,7 @@ const Donate = () => {
         </div>
 
         <a
-          href="https://docs.google.com/forms/d/e/1FAIpQLSexample/viewform"
+          href="https://forms.gle/pfDGEWCjHfV7WYAY8"
           target="_blank"
           rel="noopener noreferrer"
         >
