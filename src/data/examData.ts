@@ -262,7 +262,7 @@ export const subjects: Subject[] = [
   },
 { 
     id: "ict", 
-    name: "Computer Knowledge", 
+    name: "Computer Knowledge (ICT)", 
     icon: "📝", 
     questionCount: 20, 
     color: "hsl(220 70% 50%)",
