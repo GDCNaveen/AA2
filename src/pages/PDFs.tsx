@@ -59,28 +59,28 @@ const pdfTopics: PDFTopic[] = [
     code: "AA-MAT-02",
     subject: "Mathematics",
     topic: "Mensuration & Geometry - Currently Not Available",
-    price: "₹10",
+    price: "₹7",
     formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSexample-mat02/viewform",
   },
   {
     code: "AA-POL-01",
     subject: "Indian Polity",
     topic: "Constitution Basics - Currently Not Available",
-    price: "₹10",
+    price: "₹8",
     formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSexample-pol01/viewform",
   },
   {
     code: "AA-HIS-01",
     subject: "Indian History",
     topic: "Freedom Movement - Currently Not Available",
-    price: "₹10",
+    price: "7",
     formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSexample-his01/viewform",
   },
   {
     code: "AA-CA-0125",
     subject: "Current Affairs",
     topic: "January 2025 - Currently Not Available",
-    price: "₹10",
+    price: "₹7",
     formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSexample-ca0125/viewform",
   },
   {
@@ -94,14 +94,14 @@ const pdfTopics: PDFTopic[] = [
     code: "AA-GEO-01",
     subject: "Geography",
     topic: "Indian Geography Basics - Currently Not Available",
-    price: "₹10",
+    price: "₹101",
     formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSexample-geo01/viewform",
   },
   {
     code: "AA-ECO-01",
     subject: "Economy",
     topic: "Indian Economy Overview - Currently Not Available",
-    price: "₹10",
+    price: "₹130",
     formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSexample-eco01/viewform",
   },
   {
@@ -249,7 +249,7 @@ const PDFs = () => {
                             <FileText className="w-3 h-3" />
                             Buy PDF
                           </span>
-                          <span className="text-[10px] font-bold text-yellow-200"></span>
+                          <span className="text-[10px] font-bold text-yellow-200">Rs.200/-</span>
                         </Button>
                       </a>
                     </TableCell>
