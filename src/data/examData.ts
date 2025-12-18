@@ -695,8 +695,7 @@ export const sampleQuestions: Record<string, Question[]> = {
     options: ["Memory", "Memory and chip", "Chip", "Control unit"],
     correctAnswer: 0,
     explanation: "Memory stores program instructions and data for quick access by the CPU."
-  }
-
+  },
   {
     id: "q11",
     question: "Control Unit is called the ______ of a computer.",
