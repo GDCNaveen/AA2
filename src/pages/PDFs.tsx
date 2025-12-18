@@ -43,9 +43,9 @@ const subjects = [
 const pdfTopics: PDFTopic[] = [
    {
     code: "CS-ICT-01",
-    subject: "Mathematics",
-    topic: "Algebra (Bank Exams) - Currently Not Available",
-    price: "₹10",
+    subject: "Computer Knowledge(ICT)",
+    topic: "Architecture of Computer - Available",
+    price: "₹7",
     formUrl: "https://forms.gle/9Dd8jpEuDwGZsvWL8",
   },
   {
