@@ -125,13 +125,14 @@ export const subjects: Subject[] = [
     questionCount: 250, 
     color: "hsl(199 89% 48%)",
     subtopics: [
+      { id: "ict-part1", name: "Information and Communication Technology (ICT) -Part1", questionCount: 20 },
       { id: "gs-indian-constitution", name: "Indian Constitution", questionCount: 50 },
       { id: "gs-governance", name: "Governance & Public Policy", questionCount: 40 },
       { id: "gs-social-justice", name: "Social Justice", questionCount: 35 },
       { id: "gs-international-relations", name: "International Relations", questionCount: 45 },
       { id: "gs-environment", name: "Environment & Ecology", questionCount: 40 },
       { id: "gs-ethics", name: "Ethics & Integrity", questionCount: 40 },
-      { id: "ict-part1", name: "Information and Communication Technology-Part1", questionCount: 40 },
+     
     ]
   },
   { 
@@ -266,10 +267,10 @@ export const subjects: Subject[] = [
     questionCount: 20, 
     color: "hsl(220 70% 50%)",
     subtopics: [
-      { id: "ict-part1", name: "Information and Communication Technology-Part1", questionCount: 20 },
-      { id: "ict-part2", name: "Information and Communication Technology-Part2 - Coming Soon", questionCount: 40 },
-      { id: "ict-part3", name: "Information and Communication Technology-Part3 - Coming Soon", questionCount: 40 },
-      { id: "ict-part4", name: "Information and Communication Technology-Part4 - Coming Soon", questionCount: 40 },
+      { id: "ict-part1", name: "Information and Communication Technology (ICT) -Part1", questionCount: 20 },
+      { id: "ict-part2", name: "Information and Communication Technology (ICT) -Part2 - Coming Soon", questionCount: 40 },
+      { id: "ict-part3", name: "Information and Communication Technology (ICT) -Part3 - Coming Soon", questionCount: 40 },
+      { id: "ict-part4", name: "Information and Communication Technology (ICT) -Part4 - Coming Soon", questionCount: 40 },
     ]
   },
 
@@ -695,10 +696,7 @@ export const sampleQuestions: Record<string, Question[]> = {
     correctAnswer: 0,
     explanation: "Memory stores program instructions and data for quick access by the CPU."
   }
-],
 
-// Information and Communicaion Technology part-2
-"ict-part2": [
   {
     id: "q11",
     question: "Control Unit is called the ______ of a computer.",
@@ -769,8 +767,6 @@ export const sampleQuestions: Record<string, Question[]> = {
     correctAnswer: 1,
     explanation: "A bus is a communication pathway used to transmit data and control signals."
   }
-]
-
 
 };
 
