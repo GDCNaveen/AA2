@@ -44,7 +44,7 @@ const pdfTopics: PDFTopic[] = [
    {
     code: "CS-ICT-01",
     subject: "Computer Knowledge(ICT)",
-    topic: "Architecture of Computer - Available",
+    topic: "Architecture of Computer - Available @ Just Rs. 7/-",
     price: "₹7",
     formUrl: "https://forms.gle/9Dd8jpEuDwGZsvWL8",
   },
@@ -249,7 +249,7 @@ const PDFs = () => {
                             <FileText className="w-3 h-3" />
                             Buy PDF
                           </span>
-                          <span className="text-[10px] font-bold text-yellow-200">Rs.7/-</span>
+                          <span className="text-[10px] font-bold text-yellow-200"></span>
                         </Button>
                       </a>
                     </TableCell>
