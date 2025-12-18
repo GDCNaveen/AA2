@@ -261,15 +261,15 @@ export const subjects: Subject[] = [
   },
 { 
     id: "ict", 
-    name: "Computer", 
+    name: "Computer Knowledge", 
     icon: "📝", 
-    questionCount: 50, 
+    questionCount: 20, 
     color: "hsl(220 70% 50%)",
     subtopics: [
-      { id: "ict-part1", name: "Information and Communication Technology-Part1", questionCount: 40 },
-      { id: "ict-part2", name: "Information and Communication Technology-Part2", questionCount: 40 },
-      { id: "ict-part3", name: "Information and Communication Technology-Part3", questionCount: 40 },
-      { id: "ict-part4", name: "Information and Communication Technology-Part4", questionCount: 40 },
+      { id: "ict-part1", name: "Information and Communication Technology-Part1", questionCount: 20 },
+      { id: "ict-part2", name: "Information and Communication Technology-Part2 - Coming Soon", questionCount: 40 },
+      { id: "ict-part3", name: "Information and Communication Technology-Part3 - Coming Soon", questionCount: 40 },
+      { id: "ict-part4", name: "Information and Communication Technology-Part4 - Coming Soon", questionCount: 40 },
     ]
   },
 
